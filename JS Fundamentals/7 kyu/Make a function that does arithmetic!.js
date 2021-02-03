@@ -22,10 +22,10 @@ function arithmetic(a, b, operator){
         case 'add':
             return a + b;
         case 'subtract':
-            return a - b
+            return a - b;
         case 'multiply':
-          return a * b
+          return a * b;
         case 'divide':
-          return a / b
+          return a / b;
       };
   }
