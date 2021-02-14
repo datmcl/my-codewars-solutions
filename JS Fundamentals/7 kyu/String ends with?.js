@@ -9,3 +9,11 @@ solution('abc', 'd') // returns false
 function solution(str, ending){
     return str.slice(str.length - ending.length).includes(ending);
 }
+
+/* Edit: 
+It's better to use built-in method:
+
+function solution(str, ending){
+    return str.endsWith(ending);
+}
+*/
