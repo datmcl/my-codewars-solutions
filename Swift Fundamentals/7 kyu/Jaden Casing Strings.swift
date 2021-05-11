@@ -10,6 +10,6 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 extension String {
     func toJadenCase() -> String {
-        return dropFirst(0).capitalized // should be - return capitalized
+        return capitalized
     }
 }
