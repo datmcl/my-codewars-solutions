@@ -13,7 +13,7 @@ My [codewars](http://codewars.com) kata solutions
 - 8 kyu
   - [Sort and Star](C%2B%2B%20Fundamentals/8%20kyu/Sort%20and%20Star.cpp)
   - [Sum of positive](C%2B%2B%20Fundamentals/8%20kyu/Sum%20of%20positive.cpp)
-  - [You Can't Code Under Pressure #1](8%20kyu/You%20Can't%20Code%20Under%20Pressure%20%231.cpp)
+  - [You Can't Code Under Pressure #1](C%2B%2B%20Fundamentals/8%20kyu/You%20Can't%20Code%20Under%20Pressure%20%231.cpp)
 ### JS
 - 7 kyu
   - [Is this a triangle?](JS%20Fundamentals/7%20kyu/Is%20this%20a%20triangle%3F.js)
